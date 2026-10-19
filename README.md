@@ -37,6 +37,6 @@ SKALA 4기(SK AI 인재 양성 과정)에서 LangChain 에이전트, MLOps 서�
 - GitHub: [@boboinhaco](https://github.com/boboinhaco)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=boboinhaco&show_icons=true&hide_border=true&hide_title=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boboinhaco&show_icons=true&hide_border=true&hide_title=true&count_private=true&hide_rank=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboinhaco&layout=compact&hide_border=true&hide=html,css,jupyter%20notebook" height="150" alt="Top languages" />
 </p>
